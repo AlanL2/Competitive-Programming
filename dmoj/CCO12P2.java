@@ -1,6 +1,4 @@
-/*Clone of https://dmoj.ca/problem/ncco4d1p3, except less strict on time, directed paths instead of undirected,
-and a -1 edge case.
-*/
+/*Clone of https://dmoj.ca/problem/ncco4d1p3, except less strict on time, directed paths instead of undirected, and a -1 edge case. */
 
 import java.io.*;
 import java.util.*;
