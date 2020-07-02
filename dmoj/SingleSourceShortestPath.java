@@ -5,7 +5,6 @@ public class Main {
     static BufferedReader input = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
     static PrintWriter pr = new PrintWriter(new BufferedWriter(new OutputStreamWriter(System.out)));
-    static long ans = 0;
     public static void main(String[] args) throws IOException {
         int n = readInt(), m = readInt();
         ArrayList<edge>adj[] = new ArrayList[n+1];
