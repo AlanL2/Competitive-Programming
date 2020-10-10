@@ -4,6 +4,7 @@ import java.math.*;
 /**
  *
  * @author alanl
+ * https://dmoj.ca/problem/ncco3d2p1
  */
 public class sparsetable {
 
